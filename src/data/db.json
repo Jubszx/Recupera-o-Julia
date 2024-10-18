@@ -1,0 +1,28 @@
+{
+  "login": [
+    {
+      "email": "docemel@sodoce.com.br",
+      "senha": "brigadeiro123"
+    }
+  ],
+  "produtos": [
+    {
+      "id": "a2b3",
+      "nome": "Bolo Chocolate",
+      "preco": "R$ 50,00",
+      "tipo": "Bolo"
+    },
+    {
+      "id": "c49f",
+      "nome": "Torta de Frango",
+      "preco": "60,00",
+      "tipo": "torta"
+    },
+    {
+      "id": "ef25",
+      "nome": "Torta de Maça",
+      "preco": "55,00",
+      "tipo": "torta"
+    }
+  ]
+}
